@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706710809 source:c:\users\estef\onedrive\escritorio\estructura de datos\proyecto2parcial\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+

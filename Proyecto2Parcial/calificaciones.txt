@@ -1,0 +1,5 @@
+Docente: anahy - Cédula: 173737373
+Materia: est - NRC: 34434
+Estudiantes y Notas:
+Nombre: anahy, Nota: 23
+Nombre: wendy, Nota: 0
